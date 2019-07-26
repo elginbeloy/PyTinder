@@ -1,9 +1,3 @@
-# Ignore all weights
-*.npz
-
-# Ignore data directory
-tinder_bot_data/
-
 # Ignore the Selenium Chromedriver
 chromedriver
 
