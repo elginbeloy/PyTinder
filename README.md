@@ -18,6 +18,8 @@ PyTinder consists of three bots:
  
 ### Usage
 
+Download [chromedriver](http://chromedriver.chromium.org/downloads) for selenium into the current directory.
+
 ```shell
 # Setup enviornment
 python -m venv env
@@ -30,9 +32,9 @@ python pytinder.py
 ### ToDos 
 
 - [ ] Add requirements.txt
-- [ ] Add link to download trained model weights (.npz)
-- [ ] Add link to download chromdriver for selenium
-- [ ] Update usage section
+- [x] Add link to download trained model weights (.npz)
+- [x] Add link to download chromdriver for selenium
+- [x] Update usage section
 - [ ] Make chatbot go through matches and not messages so as to message everyone
 - [ ] Force Selenium to scroll before chatbot get's list of active matches (render all)
 - [ ] Add link to YT video 
