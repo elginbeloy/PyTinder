@@ -1,5 +1,7 @@
 # PyTinder V.1.2
 
+See the project [Youtube Video](https://www.youtube.com/watch?v=nsJ96oejfXI)
+
 ### About PyTinder
 
 PyTinder is a fun side-project that aims to automate the entire Tinder lifecycle, from swiping right to the date being setup.
@@ -28,14 +30,4 @@ python -m pip install -r requirements.txt
 
 python pytinder.py
 ```
-
-### ToDos 
-
-- [ ] Add requirements.txt
-- [x] Add link to download trained model weights (.npz)
-- [x] Add link to download chromdriver for selenium
-- [x] Update usage section
-- [ ] Make chatbot go through matches and not messages so as to message everyone
-- [ ] Force Selenium to scroll before chatbot get's list of active matches (render all)
-- [ ] Add link to YT video 
 

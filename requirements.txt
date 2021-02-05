@@ -1,0 +1,6 @@
+selenium
+tensorlayer
+nltk
+bs4
+termcolor
+pyfiglet
